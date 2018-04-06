@@ -29,5 +29,6 @@ Output:
 5.00
 5.00 5.00
 ```
+| Time limit:	0.625s | Source limit:	50000B | Memory limit:	1536MB |
+| ------------------ |:---------------------:| ---------------------:|
 
-##### Time limit:	0.625s    Source limit:	50000B    Memory limit:	1536MB
